@@ -1,16 +1,20 @@
-### Hi there 👋
-### Big things incoming...
-<!--
-**HazemEldabaa/HazemEldabaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋Hey there 
+Welcome to the crossroads of passion and data! 
 
-Here are some ideas to get you started:
+Here you can follow all my practical and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently enhancing my Data Engineering skills, with a keen interest in MLOps
+
+# 💼Professional
+- Currently a trainee @BeCode Brussels
+
+- Academic background in Information Management, with a focus on Data Science
+
+- A sponge for knowledge
+# 👤Personal Passions
+- Music and organising events
+
+- Martial Arts
+
+- New Challenges
+# 📑Research
