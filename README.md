@@ -29,3 +29,5 @@ I'm currently enhancing my Data Engineering skills, with a keen interest in MLOp
 
 - New Challenges
 # 📑Research
+
+- [Web Scraping Company Information for Official Statistics](https://drive.google.com/file/d/1tCDc434xx07swPa5tqXoJG8aPaLvOSlG/view?usp=sharing) - KU Leuven & Statistiek Vlaanderen
