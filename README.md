@@ -23,7 +23,7 @@ I'm currently enhancing my Data Engineering skills, with a keen interest in MLOp
 - Vivino Data Analysis : [Wine-Market-Analysis](https://github.com/HazemEldabaa/wine-market-analysis)
 
 # 👤Personal Passions
-- Music and organising events
+- Music and organising events - [Look at me taking over Berlin!](https://ra.co/news/77530)
 
 - Martial Arts
 
