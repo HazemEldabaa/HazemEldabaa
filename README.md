@@ -6,12 +6,12 @@ Here you can follow all my practical and personal projects.
 I'm currently enhancing my Data Engineering skills, with a keen interest in MLOps
 
 # 💼Professional
-- Currently a trainee @BeCode Brussels
+- Customer Engineer @Soda
 
 - Academic background in Information Management, with a focus on Data Science
 
 - A sponge for knowledge
-# 📋Projects
+# 📋Personal Projects
 - Scraping, cleaning & analysis - [Immo-Eliza-GOATS](https://github.com/HazemEldabaa/immo-eliza-goats)
 
 - Machine Learning - [Immo-Eliza-ML](https://github.com/HazemEldabaa/immo-eliza-ml)
