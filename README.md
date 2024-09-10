@@ -3,7 +3,6 @@ Welcome to the crossroads of passion and data!
 
 Here you can follow all my practical and personal projects.
 
-I'm currently enhancing my Data Engineering skills, with a keen interest in MLOps
 
 # 💼Professional
 - Customer Engineer @Soda
